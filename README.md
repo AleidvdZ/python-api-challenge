@@ -15,4 +15,6 @@ Plots
 figured out some text formatting in Jupyter Notebook
 
 **VacationPy**
-0608 
+0608 started VacatioPy
+to add empty column used df['Hotel Name']="" but that gave an error.  Insert syntax worked https://www.geeksforgeeks.org/how-to-add-empty-column-to-dataframe-in-pandas/
+
