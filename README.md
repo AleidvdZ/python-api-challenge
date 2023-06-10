@@ -12,7 +12,7 @@ Plots
 0607 used examples from module 6 for plots. No issues.
 
 0608 finished WeatherPy without issues
-figured out some text formatting in Jupyter Notebook
+figured out some text formatting in Jupyter Notebook by playing around with symbols # and **
 
 **VacationPy**
 0608 started VacatioPy
@@ -20,3 +20,9 @@ to add empty column used df['Hotel Name']="" but that gave an error.  Insert syn
 
 0608
 nearly done with VacationPy - relied on previous in class excersizes to create graph. Last thing is to add hover text and a summary
+
+0609
+added extra column info to hover with the help of https://discourse.holoviz.org/t/add-an-extra-field-when-hovering-in-hvplot-scatter/2331
+reduced df to remove cities where no hotel was found within 10 km (went from 28 to 23 cities)
+done!
+
